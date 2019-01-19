@@ -1,0 +1,14 @@
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\Flurl.dll
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\Flurl.Http.dll
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\Flurl.xml
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\Flurl.Http.xml
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uschmann\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
